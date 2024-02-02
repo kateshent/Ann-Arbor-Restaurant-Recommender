@@ -1,0 +1,36 @@
+Query,,Category
+Khachapuri,,Unrelated
+Har Gow,,Unrelated
+Beef Wellington,,Unrelated
+Omakase,,Unrelated
+Fish and Chips,,Unrelated
+Watercress,,Unrelated
+Dolma,,Unrelated
+Kabuli Pulao,,Unrelated
+Mint icecream,,Unrelated
+Tako Yaki,Totoro,Exact
+The Chipopeye,Pizza Bob's,Exact
+Jalapeno Popper roll,Mama Sato,Exact
+Tuna Tartare with Taro Chips,Pacific Rim,Exact
+Rainbow Bowl,Poke Fish,Exact
+Chilaquiles con Huevos,Chela's,Exact
+Rogan Josh,Cardamom,Exact
+Neptune & Fruit,Afternoon Delight ,Exact
+Polyako,Everest Sherpa,Exact
+Calzone,"Pizza Bob, New York Pizza Depot",General
+Terriyaki chicken,Mama Sato,General
+Salmon,"Pacific Rim, Poke Fish",General
+Momo,"Cardamom, Everest Sherpa",General
+Brownie,Afternoon Delight,General
+Kimchi,"Rich JC, Miss Kim",General
+Samosa,"India Cafe, Cardamom",General
+Saag,Everest Sherpa,General
+Falafel,Jerusalem Garden,General
+Calzome,"Pizza Bob, New York Pizza Depot",Typos
+Terriyak Chicken,Mama Sato,Typos
+FSalmon,"Pacific Rim, Poke Fish",Typos
+Moko,Cardamom,Typos
+Browni,Afternoon Delight,Typos
+Kinchi,Rich JC,Typos
+Simosa,"India Cafe, Cardamom",Typos
+Humus,Jerusalem Garden,Typos
